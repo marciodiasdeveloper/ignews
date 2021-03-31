@@ -99,5 +99,5 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 Feito por Márcio Dias 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-M%C3%A1rcio%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodiasdeveloper/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
+[![Linkedin Badge](https://img.shields.io/badge/-M%C3%A1rcio%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodiasdeveloper/)](https://www.linkedin.com/in/marciodiasdeveloper/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@marciodias.me-red?style=flat-square&link=mailto:contato@marciodias.me)](mailto:contato@marciodias.me)
